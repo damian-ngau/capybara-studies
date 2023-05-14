@@ -1,0 +1,77 @@
+button {
+  width: 100px;
+  height: 100px;
+  border-radius: 25px;
+  margin: 1rem 2rem 1rem 0rem;
+  padding: 2rem;
+  border: 0px solid #3b0404;
+  background-color: white;
+  cursor: url("/capybara-cursor-click.png"), default !important;
+}
+
+button:hover {
+  transition: 0.6s;
+  background-color: #ffce19;
+}
+
+.icon {
+  color: #3b0404;
+}
+
+.playing {
+  transition: 0.6s;
+  opacity: 100%;
+}
+
+.paused {
+  transition: 0.6s;
+  opacity: 30%;
+}
+
+input[type="range"] {
+  -webkit-appearance: none !important;
+  background-color: white;
+  width: 200px;
+  height: 20px;
+  border: 0px solid #3b0404;
+  cursor: url("/capybara-cursor-click.png"), default !important;
+  border-radius: 10px;
+}
+
+input[type="range"]:hover {
+  transition: 0.6s;
+  background-color: #ffce19;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none !important;
+  background-color: #3b0404;
+  width: 10px;
+  height: 30px;
+  cursor: url("/capybara-cursor-click.png"), default !important;
+  border-radius: 5px;
+}
+
+.sound-player {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sound-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+@media only screen and (max-width: 900px) {
+  input[type="range"] {
+    width: 130px;
+  }
+}
