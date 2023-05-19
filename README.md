@@ -1,6 +1,6 @@
 # Capybara Studies
 
-A website featuring ambience sounds for work, studying and relaxation.
+A website featuring ambience sounds for work, study and relaxation.
 
 - Built using Vite and React TypeScript.
 
@@ -13,5 +13,5 @@ Website at [capybarastudies.app](https://capybarastudies.app/)
 <br>
 
 ## Demo
-https://github.com/damian-ngau/capybara-studies/assets/49575407/56f941d1-7221-4262-b509-fb3c7d3870db
 
+https://github.com/damian-ngau/capybara-studies/assets/49575407/56f941d1-7221-4262-b509-fb3c7d3870db
