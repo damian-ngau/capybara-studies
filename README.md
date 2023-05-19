@@ -8,7 +8,7 @@ A website featuring ambience sounds for work, study and relaxation.
 
 Website at [capybarastudies.app](https://capybarastudies.app/)
 
-<img width="1920" alt="capybara-studies" src="https://github.com/damian-ngau/capybara-studies/assets/49575407/cd0a7c14-d3f1-4956-ba42-148684c0ad65">
+<img width="1906" alt="capybara-studies" src="https://github.com/damian-ngau/capybara-studies/assets/49575407/438d9701-de8d-46cb-be74-32e0176f08ae">
 
 <br>
 
