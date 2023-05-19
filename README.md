@@ -13,5 +13,5 @@ Website at [capybarastudies.app](https://capybarastudies.app/)
 <br>
 
 ## Demo
-https://github.com/damian-ngau/capybara-studies/assets/49575407/ba73d9dc-ea2a-4c0e-85ef-8ef9053a48bf
+https://github.com/damian-ngau/capybara-studies/assets/49575407/56f941d1-7221-4262-b509-fb3c7d3870db
 
